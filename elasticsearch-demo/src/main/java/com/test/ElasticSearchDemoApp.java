@@ -18,7 +18,7 @@ import java.util.HashMap;
  * elasticsearch 6.x
  * Created by chenyunan on 2017/12/12.
  */
-public class App {
+public class ElasticSearchDemoApp {
 
     public static void main(String[] args) {
         try {
